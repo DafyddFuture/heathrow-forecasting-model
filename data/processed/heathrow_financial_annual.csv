@@ -1,0 +1,3 @@
+year,revenue_gbp_m,adjusted_operating_costs_gbp_m,adjusted_ebitda_gbp_m,ebitda_check_gbp_m,reporting_entity,data_status,source_file,months,passengers,revenue_per_passenger_gbp,operating_cost_per_passenger_gbp,adjusted_ebitda_margin_pct
+2024,3559,1524,2035,0,Heathrow (SP) Limited,reported_actual,Heathrow_(SP)_Limited_FY_2025.pdf,12,83859729.0,42.43991773453024,18.173204447154845,57.17898286035403
+2025,3623,1589,2034,0,Heathrow (SP) Limited,reported_actual,Heathrow_(SP)_Limited_FY_2025.pdf,12,84463061.0,42.894490882825096,18.81295777333952,56.141319348606125
