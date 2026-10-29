@@ -1,0 +1,4 @@
+month,forecast_passengers,data_status,forecast_method,forecast_as_of
+2026-10-01,7365772,model_forecast,seasonal_naive,2026-09-30
+2026-11-01,6634019,model_forecast,seasonal_naive,2026-09-30
+2026-12-01,7188658,model_forecast,seasonal_naive,2026-09-30
