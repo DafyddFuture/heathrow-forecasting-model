@@ -4,9 +4,9 @@ A portfolio project using Python, SQLite and Tableau to connect Heathrow passeng
 
 ## Dashboard
 
-![Heathrow 2026 Outlook](tableau/heathrow_2026_outlook.png)
+![Heathrow 2026 Outlook](tableau/heathrow_2026_outlook_v2.png)
 
-Open `tableau/heathrow_2026_outlook.twbx` in Tableau to explore the workbook.
+Open `tableau/heathrow_2026_outlook_v2.twbx` in Tableau to explore the workbook.
 
 ## Scope
 
